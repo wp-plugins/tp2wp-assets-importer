@@ -1,10 +1,12 @@
 === TypePad to Wordpress assets importer ===
 Contributors: Romain Biard
+Author URI: http://www.digitallift.fr/
 Tags: TypePad, Wordpress, import, assets, images
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.2.2
 Stable tag: 1.0.0
 License: GPLv2 or later
+Donate link: https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=70U2ojRFMzkhNxTH8oA3F2mvMaJ49PIs-yHvuVa4hY60Hb_vK3FRpx-x-eG&dispatch=5885d80a13c0db1f8e263663d3faee8de6030e9239419d79c3f52f70a3ed57ec
 
 TypePad to Wordpress helps you finish the migration of your blog / website from TypePad to Wordpress, by importing all the images included in your posts and pages.
 
